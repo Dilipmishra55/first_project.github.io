@@ -1,0 +1,14 @@
+.section{
+    height: 200px;
+    background-color: aqua;
+    width: 200px;
+    margin: 0px auto;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.section img{
+    width: 100%;
+}
+.footer{
+    height: 300px;
+}
